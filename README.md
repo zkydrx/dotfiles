@@ -1,5 +1,5 @@
 👉[English](README.en.md)
-
+#堪称神器的命令行软件
 # dotfiles
 
 快速配置\*nix开发环境以及装机必备神器。
